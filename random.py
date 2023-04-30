@@ -1,7 +1,7 @@
-import time
-print("""[1;91m[>] Encoded By Klein
-[m[>] Github : XAIVER-69
-[1;91m[>] Encryption Type : Py3 Marshal[3.11]
+import time 
+print("""[1;91m[>] WELCOME TO CHUZA TOOLS
+[m[>] Github : MARDANIBOY
+[1;91m[>] ONWER : IDK MAYBE SYCO SODHAIR
 [m-----------------------------------------""")
 time.sleep(0.02)
 import marshal
